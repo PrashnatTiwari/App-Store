@@ -1,0 +1,16 @@
+.app-item {
+  list-style-type: none;
+  height: 19vh;
+  width: 10vw;
+  background-color: #ffffff;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 10px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.app-image {
+  height: 6vh;
+  width: 5vw;
+}
